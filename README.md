@@ -19,6 +19,7 @@ Technologies Used
 
 How to Run
 
+
 Clone the repository:
 bash
 git clone https://github.com/yourusername/traffic-sign-recognition.git
@@ -32,6 +33,8 @@ Run the application:
 bash
 python traffic_sign_recognition.py
 
+To be noted:-
+Before running the script the dataset location needs to be changed according to your dataset location on your device.
 
 Future Improvements
 
