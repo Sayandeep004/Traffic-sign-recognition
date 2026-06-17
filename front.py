@@ -5,6 +5,7 @@ import cv2
 import numpy as np
 from PIL import Image, ImageTk
 from tensorflow.keras.models import load_model
+import pandas as pd
 
 # Load the trained model
 model = load_model('traffic-sign.keras')
